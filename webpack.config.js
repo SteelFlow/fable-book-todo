@@ -11,7 +11,7 @@ function getDevServerUrl() {
         const url = execSync('gp url 8080');
         return url.toString().trim();
     } else {
-        return `http://localhost:${CONFIG.devServerPort}`;
+        return `http://localhost:8080`;
     }
 }
 
