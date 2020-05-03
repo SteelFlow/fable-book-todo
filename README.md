@@ -1,5 +1,3 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SteelFlow/fable-book-todo) 
-
 # Fable Minimal App
 
 This is a small Fable app project so you can easily get started and add your own code easily in it.
